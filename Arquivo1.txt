@@ -1,0 +1,4 @@
+Faculdade: Uniesp
+Curso: Ci~encias da Computação/Sistema para Internet
+Guilherme Rodrigues Pontes Hassem
+Tópicos Essenciais em Programação
